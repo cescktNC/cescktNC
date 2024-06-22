@@ -10,7 +10,7 @@ I'm a developer with 1.5 years of experience in software development. My constan
 
 ## Languages and Tools
 
-![JavaScript](https://github.com/cescktNC/cescktNC/blob/main/img/javascript.jpg)
+<img src="https://github.com/cescktNC/cescktNC/blob/main/img/javascript.jpg" alt="JavaScript" width="100"/>
 
 
 <!--
