@@ -8,9 +8,12 @@ I'm a developer with 1.5 years of experience in software development. My constan
 - 🌱 Currently learning Symfony framework, Git, AWS and Spring framework.
 - 📫 How to reach me: cesccat82@gmail.com
 
-## Languages and Tools
+## Languages
 
+<img src="https://github.com/cescktNC/cescktNC/blob/main/img/html.jpg" alt="JavaScript" width="100"/>
 <img src="https://github.com/cescktNC/cescktNC/blob/main/img/javascript.jpg" alt="JavaScript" width="100"/>
+
+## Tools
 
 
 <!--
