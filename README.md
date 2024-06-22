@@ -1,7 +1,5 @@
 ![My Profile Image](https://github.com/cescktNC/cescktNC/blob/main/img/portada_github.jpg)
 
-# Hi, I'm Francesc 👋 (Fullstack Developer)
-
 ## About Me
 
 I'm a developer with 1.5 years of experience in software development. My constant desire to learn and my ability to program effectively drive me to seek creative and effective solutions. Additionally, my analytical and observant nature leads me to enjoy solving problems and providing support whenever possible. I am committed to my professional growth and continuous self-directed learning. I take online courses on platforms like Udemy and SymfonyCasts, which allows me to stay updated and acquire new skills in my field.
