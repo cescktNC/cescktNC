@@ -10,9 +10,10 @@ I'm a developer with 1.5 years of experience in software development. My constan
 
 ## Languages
 
-![JavaScript](https://github.com/cescktNC/cescktNC/blob/main/img/javascript.svg)
-<img src="https://github.com/cescktNC/cescktNC/blob/main/img/html.jpg" alt="HTML" width="100"/>
-<img src="https://github.com/cescktNC/cescktNC/blob/main/img/javascript.jpg" alt="JavaScript" width="100"/>
+<div style="display: flex;">
+    <img src="https://github.com/cescktNC/cescktNC/blob/main/img/html.jpg" alt="HTML" width="100"/>
+    <img src="https://github.com/cescktNC/cescktNC/blob/main/img/javascript.jpg" alt="JavaScript" width="100"/>
+</div>
 
 ## Tools
 
