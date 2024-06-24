@@ -11,7 +11,9 @@ I'm a developer with 1.5 years of experience in software development. My constan
 ## Languages
 
 <p>
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML 5-e44d26?style=flat-square&logo=html&logoColor=white">
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML 5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img alt="HTML" src="https://img.shields.io/badge/-CSS 3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img alt="HTML" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
 </p>
 
 ## Tools
