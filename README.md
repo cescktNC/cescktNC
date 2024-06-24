@@ -27,7 +27,7 @@ I'm a developer with 1.5 years of experience in software development. My constan
 ## Tools
 
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual&nbsp;Studio&nbsp;Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual&nbsp;Studio&nbsp;Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
