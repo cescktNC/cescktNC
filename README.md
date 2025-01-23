@@ -40,6 +40,6 @@ I'm a developer with 2 years of experience in software development. I have a str
 
 ## My Projects
 Here are some of my recent projects:
-- 🏛 CRM for Lawyers: A client and case management system built with JavaScript and currently being migrated to React:
-  - ![CRM for Lawyers (JavaScript version)](https://github.com/cescktNC/pionlex-app-front.git)
-  - ![CRM for Lawyers (React version)](https://github.com/cescktNC/pionlex-app-react.git)
+- 🏛 **CRM for Lawyers**: A client and case management system built with JavaScript and currently being migrated to React.
+  - [CRM for Lawyers (JavaScript version)](https://github.com/cescktNC/pionlex-app-front.git)
+  - [CRM for Lawyers (React version)](https://github.com/cescktNC/pionlex-app-react.git)
