@@ -33,7 +33,7 @@ I'm a self-taught developer with 2 years of experience in web development. Passi
 
 ## Tools
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square =visualstudiocode=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square=visualstudiocode=white)
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
