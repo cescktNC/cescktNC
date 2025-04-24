@@ -1,4 +1,4 @@
-![My Profile Image](https://github.com/cescktNC/cescktNC/blob/main/img/portada_github.jpg)
+![My Profile Image](https://github.com/cescktNC/cescktNC/blob/main/img/portada_github.png)
 
 ## About Me
 
